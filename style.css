@@ -58,22 +58,22 @@ body {
     width: 140px;
 }
 
-.estudante-icone{
+.salgados-icone{
     width: 25px;
     padding: 4px 8px;
 }
 
-.estudante-div{
+.salgados-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.estudante-titulo{
+.salgados-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.estudante-todos{
+.salgados-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     background-color: rgba(255, 255, 255, 0.411);
